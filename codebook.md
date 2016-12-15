@@ -1,4 +1,4 @@
-## About R script
+## About R script :
 File with R code `run_analysis.R` perform 5 following steps :  
 
 1. Merges the training and the test sets to create one data set.   
